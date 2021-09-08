@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessie Lin
+- 👋 Hi, I’m Jessie
 - 👀 I’m learning computer science
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 How to reach me: Email-jessielin34@gmail.com
